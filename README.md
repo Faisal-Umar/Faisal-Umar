@@ -25,9 +25,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/faisal.umar_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/waseeq_zf?t=KmdGCUrWAMXB0zbUcO4sRQ&s=09)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Waseeq_04/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-waseeq.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/FaisalUmar43131)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)]()
 
 <!-- Snake Game Repo View -->
 
