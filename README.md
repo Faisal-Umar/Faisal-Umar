@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mohd Waseeq Zafar</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Faisal Umar</h1>
 
 <p align="center" style="font-size:18px;">A passionate Backend Developer || Cloud Enthusiast || Tech Explorer from India 🇮🇳</p>
 
-<p align="center" style="font-size:18px;">📩 <strong>Email Me:</strong> ✉️ waseeqzafar04@gmail.com — for collaboration, projects, or just to say hi! 😊</p>
+<p align="center" style="font-size:18px;">📩 <strong>Email Me:</strong> ✉️ faisalumar0484@gmail.com — for collaboration, projects, or just to say hi! 😊</p>
 
 
 
@@ -13,7 +13,7 @@
 - 👯 **Looking to collaborate on:** Full-stack or backend projects with real-world impact  
 - 🤔 **Need help with:** Building scalable systems and WebSocket integration  
 - 💬 **Ask me about:** Spring Boot, REST APIs, MongoDB, or system design  
-- 📫 **Reach me at:** waseeqzafar04@gmail.com  
+- 📫 **Reach me at:** faisalumar0484@gmail.com  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I'm a backend dev who occasionally dabbles in frontend just to remember why I love backend
 
@@ -22,9 +22,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waseeq_zf) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-waseeq-zafar) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waseeqzafar04@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/faisal.umar_/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/waseeq_zf?t=KmdGCUrWAMXB0zbUcO4sRQ&s=09)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Waseeq_04/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-waseeq.vercel.app/)
