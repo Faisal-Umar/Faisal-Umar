@@ -8,8 +8,8 @@
 
 ---
 
-- 🔭 **Currently working on:** SWENS – a microservices-based workflow and notification engine  
-- 🌱 **Learning:** Advanced Spring Boot, scalable systems, and real-time communication  
+- 🔭 **Currently working on:** A Cloud-based Real-Time Chat Application with user authentication and instant messaging  
+- 🌱 **Learning:** Cloud computing fundamentals, scalable systems, and real-time communication  
 - 👯 **Looking to collaborate on:** Full-stack or backend projects with real-world impact  
 - 🤔 **Need help with:** Building scalable systems and WebSocket integration  
 - 💬 **Ask me about:** Spring Boot, REST APIs, MongoDB, or system design  
@@ -23,11 +23,11 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/faisal.umar_/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-umar-46bbba24b/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](faisalumar0484@gmail.com) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/FaisalUmar43131)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/FaisalUmar/)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)]() -->
 
 <!-- Snake Game Repo View -->
 
@@ -65,10 +65,10 @@
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+<!-- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) -->
 
 
 
@@ -84,12 +84,12 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 # 📊 GitHub Stats:
